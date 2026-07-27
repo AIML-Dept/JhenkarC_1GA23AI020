@@ -1,0 +1,12 @@
+# Ignore virtual environments
+qiskit_env/
+venv/
+.venv/
+
+# Ignore Python bytecode / cache
+__pycache__/
+*.py[cod]
+
+# Ignore IDE settings
+.vscode/
+.idea/
